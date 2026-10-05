@@ -16,6 +16,6 @@ df[col]
 print(df["Instagram_Minutes"].sum())
 print(df["Instagram_Minutes"].mean())
 print(df["YouTube_Minutes"].max())
-print(round(df["Instagram_Minutes"].mean(),2))
+print(round(df["Instagram_Minutes"].mean(),2))  # 2 decimal values
 
 print(df[df["Instagram_Minutes"]>100])
