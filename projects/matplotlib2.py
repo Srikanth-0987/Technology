@@ -1,17 +1,3 @@
-"""
-DAY 2 — DATA GENERATOR
-Run this ONCE. It creates your own personal dataset: day02_usage.csv
-
-Every student gets the SAME COLUMNS and DIFFERENT NUMBERS.
-Your answers will not match your neighbour's. Copying is pointless.
-
-HOW TO RUN
-  1. Save this file as generate_app_usage.py
-  2. Change ROLL_NUMBER below to YOUR roll number
-  3. python generate_app_usage.py
-  4. Confirm day02_usage.csv appeared in the same folder
-"""
-
 import matplotlib.pyplot as plt
 import csv
 import random
